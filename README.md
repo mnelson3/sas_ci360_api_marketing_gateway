@@ -2,7 +2,7 @@
 
 ## SAS 360 API MARKETING GATEWAY LIBRARY
 
-> **Status: canonical.** This is the actively maintained client for the Marketing Gateway API (Discover data downloads). No newer `sol-*` equivalent exists yet.
+> **Status: archived.** This repository is retained as a historical reference and is no longer actively developed. It was a client for the Marketing Gateway API (Discover data downloads); no newer `sol-*` equivalent has replaced it.
 
 ### Overview
 
@@ -37,8 +37,8 @@ This topic contains the following sections:
 ### Installation
 
 To install the SAS CI360 API Marketing Gateway Library from a clone of this repository:
- 1. `git clone https://github.com/mnelson3/sas_ci360_api_marketing_gateway.git`
- 1. `cd sas_ci360_api_marketing_gateway`
+ 1. `git clone https://github.com/mnelson3/sas_ci360_api_marketing_gateway-archived.git`
+ 1. `cd sas_ci360_api_marketing_gateway-archived`
  1. `pip install .`
 <br><br>
 
